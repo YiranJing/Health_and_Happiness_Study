@@ -5,6 +5,7 @@ Data1002 group assignment!
 - Eileen Wang
 - Yiran Jing
 
+### Report
 [Report](https://github.com/YiranJing/Health_and_Happiness_Study/blob/master/report/DATA1002-Project-Stage2.pdf)
 
 #### Introduction
@@ -22,8 +23,3 @@ In our research, we analyse a dataset containing happiness scores for each count
 3. Regression based on k-nearest neighbours
 4. Regression Trees
 5. Model Comparison
-
-
-#### Google Doc:
-https://docs.google.com/document/d/1u5NBE8bHB_XhDphlpsNVPKja8WfAGoWk/edit?fbclid=IwAR2xR4gKGu2jMoVIgVChzh1qgBAO6r02vADViqMSzbiI_evYk1Ld1-tupIs
-
